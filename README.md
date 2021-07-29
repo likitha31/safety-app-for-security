@@ -1,8 +1,2 @@
-# Latrobe Safety for Security
-La Trobe Safety for the Security, ability for security to see and accept requests and user live location
-
-[Click here for a Demo video! ](https://res.cloudinary.com/hbcfhna19/video/upload/v1619241947/LaTrobeSafety_ie6scd.mp4)
-
-
-
-Warning: Code has not been maintained since 2019
+ Safety app for Security
+ Safety app for the Security, allows the security or the escort to see the users live location in case of emergency and receive message and call from the users.
