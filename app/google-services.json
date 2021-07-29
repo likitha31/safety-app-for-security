@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "168584823932",
+    "firebase_url": "https://latrobesafety-28393.firebaseio.com",
+    "project_id": "latrobesafety-28393",
+    "storage_bucket": "latrobesafety-28393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168584823932:android:13ba6033c6fdc15fb775f9",
+        "android_client_info": {
+          "package_name": "latrobesafety.mad.security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168584823932-ul4mi2h6aruela4303nib95irnkqhktj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "latrobesafety.mad.security",
+            "certificate_hash": "f2a77fb396face942036ebe5b5ebb84fe1b83929"
+          }
+        },
+        {
+          "client_id": "168584823932-chrpaoibntgmgvv8eeucv0k631loctk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "latrobesafety.mad.security",
+            "certificate_hash": "a9effff43db9d17c28b3a94515afcb20e00817d8"
+          }
+        },
+        {
+          "client_id": "168584823932-64jo2sjqfioc1gpvq7osrpc4aiusiqs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "latrobesafety.mad.security",
+            "certificate_hash": "de9384a17a04b6808f355c5f0ceb8c782cb1bc7f"
+          }
+        },
+        {
+          "client_id": "168584823932-csbkt1d0rhvrjbd8qirrqh2172on9eko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYjfB5C424nUfB-_0Ura8L79gJ6RXhiAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168584823932-csbkt1d0rhvrjbd8qirrqh2172on9eko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

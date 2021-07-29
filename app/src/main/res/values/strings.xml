@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">La Trobe Safety for Security</string>
+    <string name="welcome">Welcome to LaTrobe Safety!</string>
+    <string name="forsec">for Security</string>
+    <string name="request">Request</string>
+    <string name="history">Request History</string>
+</resources>
